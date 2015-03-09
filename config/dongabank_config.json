@@ -1,0 +1,9 @@
+{
+    "start_url": "http://www.dongabank.com.vn/interest/1206/tiet-kiem-uu-viet-vnd",
+    "levels": {
+        "0": {
+            "callback": "dongabank.create_date"
+        }
+    }
+
+}
